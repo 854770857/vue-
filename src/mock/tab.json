@@ -1,0 +1,42 @@
+{
+  "flag": 1,
+  "msg": "",
+  "data": [
+    {
+      "NavID": "1",
+      "Title": "精选",
+      "Link": "/home/index"
+    },
+    {
+      "NavID": "2",
+      "Title": "男用玩具",
+      "Link": "/home/children"
+    },
+    {
+      "NavID": "3",
+      "Title": "女用玩具",
+      "Link": "/home/children"
+    },
+    {
+      "NavID": "4",
+      "Title": "延时",
+      "Link": "/home/children"
+    },
+    {
+      "NavID": "5",
+      "Title": "内衣",
+      "Link": "/home/children"
+    },
+    {
+      "NavID": "6",
+      "Title": "套套",
+      "Link": "/home/children"
+    },
+    {
+      "NavID": "7",
+      "Title": "助兴",
+      "Link": "/home/children"
+    }
+  ],
+  "extra": {}
+}

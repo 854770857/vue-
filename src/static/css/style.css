@@ -1,0 +1,8 @@
+.section{
+    background: #f3f3f2;
+    position: absolute;
+    top: 44px;
+    bottom: 44px;
+    width: 100%;
+    overflow-y: scroll;
+  }

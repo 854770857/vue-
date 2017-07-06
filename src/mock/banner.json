@@ -1,0 +1,29 @@
+{
+    "info": {
+        "extra": null,
+        "data": [
+            {
+                "pic_url": "http://m.taqu.cn/Resources/images/banner/1.png",
+                "href": "#"
+            },
+            {
+                "pic_url": "http://m.taqu.cn/Resources/images/banner/2.jpg",
+                "href": "goods_detail.html?id=1455"
+            },
+            {
+                "pic_url": "http://m.taqu.cn/Resources/images/banner/3.jpg",
+                "href": "goods_detail.html?id=1506"
+            },
+            {
+                "pic_url": "http://m.taqu.cn/Resources/images/banner/4.jpg",
+                "href": "goods_detail.html?id=41"
+            },
+            {
+                "pic_url": "http://m.taqu.cn/Resources/images/banner/5.jpg",
+                "href": "goods_detail.html?id=1179"
+            }
+        ]
+    },
+    "response_status": "success",
+    "msg": ""
+}
